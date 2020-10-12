@@ -85,6 +85,7 @@
 7XX
 7zip
 970EvoPlus
+A320
 A520
 AAPL
 ACPIBatteryManager
@@ -105,6 +106,7 @@ ARPT
 ASR
 ASUS
 ASentientBot
+ATH9KFixup
 AWAC
 AZAL
 Above4G
@@ -165,6 +167,9 @@ AsRock
 AssetCache
 Asus
 Asus's
+Ath3kBT
+Ath3kBTInjector
+AthBluetoothFirmware
 Atheros
 AtherosE2200Ethernet
 Atmel
@@ -173,6 +178,7 @@ AudioDxe
 Auth
 B0D3
 B360
+B450
 B460
 B550
 B75
@@ -541,6 +547,7 @@ NOOPT
 NPM
 NTFS
 NUC
+NUCs
 NVCAP
 NVCAP-settings
 NVMe
